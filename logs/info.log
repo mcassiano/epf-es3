@@ -1,0 +1,69 @@
+Info: CustomCategory:RUPcategoria: 582 mini seconds publishing element
+Info: : 2029 mini-second(s) publishing element DeliveryProcess:RUPprocess[TP1\deliveryprocesses\RUPprocess_F1C8F9D9.html]
+Info: DeliveryProcess:RUPprocess: 2031 mini seconds publishing element
+Info: DeliveryProcess:RUPprocess: 99 mini seconds publishing process specific layout data
+Info: Activity:Analisar o Problema: 146 mini seconds publishing element
+Info: Activity:Definir o Sistema: 114 mini seconds publishing element
+Info: Activity:Definir Missão de Avaliação: 91 mini seconds publishing element
+Info: Activity:Testar e Avaliar: 107 mini seconds publishing element
+Info: TaskDescriptor:Desenvolver Visão: 327 mini seconds publishing element
+Info: TaskDescriptor:Localizar Atores e Casos de Uso: 31 mini seconds publishing element
+Info: TaskDescriptor:Desenvolver Visão: 43 mini seconds publishing element
+Info: TaskDescriptor:Localizar Atores e Casos de Uso: 79 mini seconds publishing element
+Info: TaskDescriptor:Identificar Motivadores de Teste: 25 mini seconds publishing element
+Info: TaskDescriptor:Implementar Teste: 32 mini seconds publishing element
+Info: TaskDescriptor:Identificar Ideias de Teste: 20 mini seconds publishing element
+Info: RoleDescriptor:Analista de Sistema: 306 mini seconds publishing element
+Info: RoleDescriptor:Analista de Teste: 19 mini seconds publishing element
+Info: RoleDescriptor:Cliente: 25 mini seconds publishing element
+Info: RoleDescriptor:Testador: 23 mini seconds publishing element
+Info: WorkProductDescriptor:Arquitetura: 422 mini seconds publishing element
+Info: WorkProductDescriptor:Documento de Visão: 23 mini seconds publishing element
+Info: WorkProductDescriptor:Especificações suplementares: 25 mini seconds publishing element
+Info: WorkProductDescriptor:Lista de Motivos de Teste: 22 mini seconds publishing element
+Info: WorkProductDescriptor:Log de Teste: 17 mini seconds publishing element
+Info: WorkProductDescriptor:Modelo de Caso de Uso: 26 mini seconds publishing element
+Info: WorkProductDescriptor:Modelo de Caso-de-Uso de Negócio: 18 mini seconds publishing element
+Info: WorkProductDescriptor:Modelo de Objetos de Negócio: 18 mini seconds publishing element
+Info: WorkProductDescriptor:Pedidos de Mudança: 18 mini seconds publishing element
+Info: WorkProductDescriptor:Plano de Teste: 18 mini seconds publishing element
+Info: WorkProductDescriptor:Regras de Negócio: 16 mini seconds publishing element
+Info: WorkProductDescriptor:Requisitos de Stakeholder: 16 mini seconds publishing element
+Info: RoleDescriptor:Analista de Sistema: 20 mini seconds publishing element
+Info: RoleDescriptor:Cliente: 16 mini seconds publishing element
+Info: WorkProductDescriptor:Documento de Visão: 19 mini seconds publishing element
+Info: WorkProductDescriptor:Especificações suplementares: 22 mini seconds publishing element
+Info: WorkProductDescriptor:Modelo de Caso de Uso: 34 mini seconds publishing element
+Info: WorkProductDescriptor:Modelo de Caso-de-Uso de Negócio: 18 mini seconds publishing element
+Info: WorkProductDescriptor:Modelo de Objetos de Negócio: 18 mini seconds publishing element
+Info: WorkProductDescriptor:Regras de Negócio: 16 mini seconds publishing element
+Info: WorkProductDescriptor:Requisitos de Stakeholder: 22 mini seconds publishing element
+Info: WorkProductDescriptor:Modelo de Caso de Uso: 16 mini seconds publishing element
+Info: WorkProductDescriptor:Requisitos de Stakeholder: 13 mini seconds publishing element
+Info: RoleDescriptor:Analista de Teste: 19 mini seconds publishing element
+Info: WorkProductDescriptor:Documento de Visão: 15 mini seconds publishing element
+Info: WorkProductDescriptor:Modelo de Caso de Uso: 15 mini seconds publishing element
+Info: WorkProductDescriptor:Plano de Teste: 18 mini seconds publishing element
+Info: Task:Localizar Atores e Casos de Uso: 354 mini seconds publishing element
+Info: Task:Identificar Motivadores de Teste: 27 mini seconds publishing element
+Info: Task:Implementar Teste: 37 mini seconds publishing element
+Info: Task:Identificar Ideias de Teste: 24 mini seconds publishing element
+Info: : 1224 mini-second(s) publishing element Role:Analista de Sistema[TP1\roles\Analista de Sistema_D26651DB.html]
+Info: Role:Analista de Sistema: 1225 mini seconds publishing element
+Info: Role:Analista de Teste: 52 mini seconds publishing element
+Info: Role:Cliente: 42 mini seconds publishing element
+Info: Role:Testador: 45 mini seconds publishing element
+Info: Artifact:Arquitetura: 639 mini seconds publishing element
+Info: Artifact:Lista de Motivos de Teste: 189 mini seconds publishing element
+Info: Artifact:Log de Teste: 70 mini seconds publishing element
+Info: Artifact:Modelo de Caso de Uso: 563 mini seconds publishing element
+Info: Artifact:Plano de Teste: 183 mini seconds publishing element
+Info: Artifact:Requisitos de Stakeholder: 558 mini seconds publishing element
+Info: Artifact:Documento de Visão: 641 mini seconds publishing element
+Info: Artifact:Modelo de Caso-de-Uso de Negócio: 500 mini seconds publishing element
+Info: Artifact:Modelo de Objetos de Negócio: 503 mini seconds publishing element
+Info: Artifact:Especificações suplementares: 508 mini seconds publishing element
+Info: Artifact:Pedidos de Mudança: 62 mini seconds publishing element
+Info: Task:Desenvolver Visão: 44 mini seconds publishing element
+Info: Artifact:Regras de Negócio: 182 mini seconds publishing element
+Info: : Publishing time: 0 minutes 15 seconds
